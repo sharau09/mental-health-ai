@@ -33,7 +33,7 @@ mental_health_ai/
 │── README.md
 ▶️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/mental-health-ai.git
+git clone https://github.com/sharau09/mental-health-ai/blob/main/README.md
 2️⃣ Install dependencies
 pip install pandas numpy scikit-learn streamlit
 3️⃣ Train the model
